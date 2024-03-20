@@ -1,4 +1,4 @@
-public class Mouse1 {
+public class Mouse1 extends  Mouse{
     String texture = "Matte";
 
 

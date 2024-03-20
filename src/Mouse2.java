@@ -1,4 +1,4 @@
-public class Mouse2 {
+public class Mouse2 extends  Mouse{
 
 
     public  static  void  connect(){
